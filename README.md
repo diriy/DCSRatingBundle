@@ -14,7 +14,7 @@ The DCSRatingBundle adds support for a rating system in Symfony2. Features inclu
 
 To install DCSRatingBundle run the following command
 
-	bash $ php composer.phar require damianociarla/rating-bundle
+	composer require diriy/rating-bundle
 
 ### B) Enable the bundle
 
